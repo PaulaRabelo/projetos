@@ -6,5 +6,5 @@
 
 ### O que foi aprendido: Fundamentos importantes de manipulação de elementos no DOM utilizando JavaScript! E como aplicar um projeto na nuvem!
 
-### Link do Deploy: 
+### Link do Deploy: https://projetos-38z1.vercel.app/?
 
